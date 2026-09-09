@@ -1,0 +1,7 @@
+*.env
+*.mp4
+.env*
+__pycache__/
+accounts.json
+node_modules/
+out/

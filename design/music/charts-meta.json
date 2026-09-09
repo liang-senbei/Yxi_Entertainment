@@ -1,0 +1,80 @@
+[
+ {
+  "id": "abyss_easy",
+  "song": "abyss",
+  "zh": "入渊",
+  "difficulty": "easy",
+  "notes": 129,
+  "ticks": 119,
+  "slides": 3,
+  "traces": 0,
+  "swipes": 7,
+  "units": 132,
+  "durationMs": 65657
+ },
+ {
+  "id": "abyss_hard",
+  "song": "abyss",
+  "zh": "入渊",
+  "difficulty": "hard",
+  "notes": 230,
+  "ticks": 198,
+  "slides": 4,
+  "traces": 8,
+  "swipes": 20,
+  "units": 234,
+  "durationMs": 65657
+ },
+ {
+  "id": "snow_easy",
+  "song": "snow",
+  "zh": "初雪",
+  "difficulty": "easy",
+  "notes": 65,
+  "ticks": 49,
+  "slides": 13,
+  "traces": 0,
+  "swipes": 3,
+  "units": 78,
+  "durationMs": 62500
+ },
+ {
+  "id": "snow_hard",
+  "song": "snow",
+  "zh": "初雪",
+  "difficulty": "hard",
+  "notes": 85,
+  "ticks": 61,
+  "slides": 13,
+  "traces": 3,
+  "swipes": 8,
+  "units": 98,
+  "durationMs": 62500
+ },
+ {
+  "id": "yunxi_easy",
+  "song": "yunxi",
+  "zh": "云曦",
+  "difficulty": "easy",
+  "notes": 101,
+  "ticks": 84,
+  "slides": 11,
+  "traces": 0,
+  "swipes": 6,
+  "units": 112,
+  "durationMs": 62500
+ },
+ {
+  "id": "yunxi_hard",
+  "song": "yunxi",
+  "zh": "云曦",
+  "difficulty": "hard",
+  "notes": 153,
+  "ticks": 123,
+  "slides": 11,
+  "traces": 4,
+  "swipes": 15,
+  "units": 164,
+  "durationMs": 62500
+ }
+]
